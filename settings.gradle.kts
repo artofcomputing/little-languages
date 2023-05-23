@@ -14,3 +14,4 @@ plugins {
 
 rootProject.name = "little-languages"
 include("app")
+include("tools")
